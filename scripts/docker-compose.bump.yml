@@ -53,7 +53,7 @@ services:
     image: alpine:3.14
 
   python:
-    image: python:3.9.5-alpine
+    image: python:3.10.2-alpine
 
   deno:
     image: denoland/deno:1.14.2
